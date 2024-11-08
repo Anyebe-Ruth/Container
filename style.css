@@ -1,0 +1,44 @@
+.con1{
+  height: 300px;
+  width: 100%;
+  display: flex;
+}
+
+
+.con2{
+height: 300px;
+width: 25%;
+background: #ff3737;
+}
+
+.con3{
+  height: 300px;
+  width: 25%;
+  background: #ffa500;
+}
+
+.con4{
+  height:300px;
+  width: 25%;
+  background: #ffff00;
+}
+
+
+.con5{
+  height: 300px;
+  width: 25%;
+  background: #00811f;
+}
+
+
+.con6{
+  height: 300px;
+  width: 25%;
+  background: #0000ff;
+}
+
+.con7{
+  height: 300px;
+  height: 25%;
+  background: #760089;
+}
